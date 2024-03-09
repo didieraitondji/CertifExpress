@@ -52,7 +52,7 @@
 * Rédaction de la documentation technique détaillée pour faciliter la maintenance future du système
 * Compilation de tous les documents de conception, de test et de déploiement pour référence future
 
-### Phase de suivi et de maintenance
+## Phase de suivi et de maintenance
 * Support post-déploiement
 * Mise en place d’un processus de support pour répondre aux questions et résoudre les problèmes des utilisateurs
 * Surveillance continue du système pour détecter et résoudre les problèmes éventuels
@@ -62,5 +62,6 @@
 * Planification de la base de données
 * Planification des mises à jour régulières du système pour ajouter de nouvelles fonctionnalités ou améliorer les fonctionnalités existantes
 * Suivi tendances technologiques pour garantir que le système reste à jour et compétitif.
+
 
 CertifExpress: La rapidité et l’efficacité dans la délivrance des certificats.
