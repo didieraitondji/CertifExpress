@@ -19,17 +19,17 @@ CertifExpress est un système intelligent conçu pour accélérer et simplifier 
 
 # Planning suivi pour la réalisation du projet 
 ## Phase de planification 
-### Analyses des besoins et des exigences :
+1. ### Analyses des besoins et des exigences :
 * Rencontres avec les parties prenantes pour comprendre leurs besoins.
 * Documentations des exigences fonctionnelles et non fonctionnelles du système.
 
-### Définition des fonctionnalités :
+2. ### Définition des fonctionnalités :
 * Elaboration d’une liste détaillée des fonctionnalités attendues du système.
 * Etude de faisabilités
 * Evaluation des technologies disponibles et des contraintes techniques.
 * Analyse des risques potentiels et planification des stratégies d’atténuation.
 
-## Phase de conception
+3. ## Phase de conception
 * Conception de l’architecture du système
 * Identification des composants du système de leurs interactions
 * Création de diagrammes UML (comme les diagrammes de classes, de séquence, etc.)
@@ -40,7 +40,7 @@ CertifExpress est un système intelligent conçu pour accélérer et simplifier 
 * Modélisation de la structure de la base de données
 * Choix du système de gestion de base (SGBB) approprié.
 
-## Phase de développement
+4. ## Phase de développement
 * Développement du bac end
 * Mise en place des fonctionnalités de gestion des demandes de retrait d’attestation et de diplôme
 * Implémentation des mécanismes d’authentification et de sécurité
@@ -48,7 +48,7 @@ CertifExpress est un système intelligent conçu pour accélérer et simplifier 
 * Codage des interfaces utilisateur et des relations définies lors de la phase de conception.
 * Développement des scripts de migration et de peuplement de données
 
-## Phase de tests et d’assurance qualités
+5. ## Phase de tests et d’assurance qualités
 * Tests unitaires
 * Ecriture et exécution de tests pour chaque composant du système
 * Correction des bugs et des anomalies identifiées
@@ -59,7 +59,7 @@ CertifExpress est un système intelligent conçu pour accélérer et simplifier 
 * Organisation de sessions de test avec des utilisateurs représentatifs
 * Collecte des retours d’utilisateurs et mise en œuvre des ajustements nécessaires.
 
-## Phase de déploiement et de documentation
+6. ## Phase de déploiement et de documentation
 ### Déploiement du système 
 * Configuration de l’infrastructure nécessaire pour le déploiement en production.
 * Installation et configuration du système sur les serveurs appropriés
@@ -70,7 +70,7 @@ CertifExpress est un système intelligent conçu pour accélérer et simplifier 
 * Rédaction de la documentation technique détaillée pour faciliter la maintenance future du système
 * Compilation de tous les documents de conception, de test et de déploiement pour référence future
 
-## Phase de suivi et de maintenance
+7. ## Phase de suivi et de maintenance
 * Support post-déploiement
 * Mise en place d’un processus de support pour répondre aux questions et résoudre les problèmes des utilisateurs
 * Surveillance continue du système pour détecter et résoudre les problèmes éventuels
@@ -85,4 +85,38 @@ CertifExpress est un système intelligent conçu pour accélérer et simplifier 
 
 # Détails de chaque point :
 
+## Les points 1. & 2. se resument au détails suivant : 
+
+1. ### Scénario : Demande d’Attestation de Diplôme
+
+### Étape 1 : Accès à CertifExpress
+  * #### Étudiant : Rendez-vous sur le site web de CertifExpress.
+  * #### Page d’Accueil : L’étudiant est accueilli par une interface conviviale avec les options suivantes :
+  * #### Demander une Attestation
+  * #### Suivre ma Demande
+  * #### Archiver mes Documents
+
+### Étape 2 : Remplir le Formulaire de Demande
+  * #### Étudiant : Clique sur “Demander une Attestation”.
+  * #### Formulaire en Ligne : L’étudiant remplit les champs requis :
+    * Nom complet
+    * Numéro d’étudiant
+    * Type d’attestation (diplôme, relevé de notes, etc.)
+    * Motif de la demande (emploi, poursuite d’études, etc.)
+
+Étape 3 : Suivi de la Demande
+Étudiant : Après soumission, l’étudiant reçoit un numéro de suivi.
+Espace Personnel : L’étudiant peut se connecter à son espace personnel pour vérifier l’état de sa demande :
+En attente de validation
+En cours de traitement
+Prêt à être retiré
+Étape 4 : Validation et Délivrance
+Administrateur : Reçoit la demande et vérifie les informations.
+Génération Automatique : Le système génère l’attestation avec les détails corrects.
+Notification à l’Étudiant : L’étudiant reçoit une notification lorsque l’attestation est prête.
+Retrait de l’Attestation : L’étudiant peut retirer l’attestation au bureau administratif ou la recevoir par voie électronique.
+Avantages pour l’Étudiant :
+Gain de Temps : Plus besoin de faire la queue ou d’attendre des semaines.
+Transparence : L’étudiant sait où en est sa demande à tout moment.
+Sécurité : Les données sont protégées et les documents sont authentiques.
 CertifExpress: La rapidité et l’efficacité dans la délivrance des certificats.
