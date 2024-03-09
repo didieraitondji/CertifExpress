@@ -2,20 +2,22 @@
 CertifExpress est un système intelligent conçu pour accélérer et simplifier le processus de demande de retrait d’attestations et de diplômes. Que vous soyez un étudiant, un professionnel ou un employeur, notre plateforme vous offre une solution efficace pour obtenir vos documents officiels en un temps record.
 
 # Fonctionnalités Clés :
-## * Demande Facilitée : Remplissez un formulaire simple en ligne pour soumettre votre demande. Plus besoin de vous déplacer ou d’attendre des heures dans les bureaux administratifs.
-## * Suivi en Temps Réel : Recevez des notifications instantanées sur l’état de votre demande. Vous saurez exactement où en est le processus, de la validation à la délivrance.
-## * Sécurité Renforcée : Vos données personnelles sont protégées grâce à des protocoles de sécurité avancés. Nous garantissons la confidentialité de vos informations.
-## * Archivage Numérique : Stockez vos attestations et diplômes de manière sécurisée dans votre espace personnel. Accédez-y à tout moment, où que vous soyez.
-## * Service Client Réactif : Notre équipe est là pour répondre à vos questions et vous assister à chaque étape. Nous sommes engagés à vous offrir une expérience sans tracas.
+* ## Demande Facilitée : Remplissez un formulaire simple en ligne pour soumettre votre demande. Plus besoin de vous déplacer ou d’attendre des heures dans les bureaux administratifs.
+* ## Suivi en Temps Réel : Recevez des notifications instantanées sur l’état de votre demande. Vous saurez exactement où en est le processus, de la validation à la délivrance.
+* ## Sécurité Renforcée : Vos données personnelles sont protégées grâce à des protocoles de sécurité avancés. Nous garantissons la confidentialité de vos informations.
+* ## Archivage Numérique : Stockez vos attestations et diplômes de manière sécurisée dans votre espace personnel. Accédez-y à tout moment, où que vous soyez.
+* ## Service Client Réactif : Notre équipe est là pour répondre à vos questions et vous assister à chaque étape. Nous sommes engagés à vous offrir une expérience sans tracas.
 
 # Pourquoi Choisir CertifExpress ?
-## * Gain de Temps : Évitez les files d’attente et les délais administratifs. Obtenez vos documents rapidement.
-## * Fiabilité : Notre système est approuvé par les institutions éducatives et les organismes gouvernementaux.
-## * Accessibilité : Disponible 24h/24 et 7j/7, CertifExpress s’adapte à votre emploi du temps.
+* ## Gain de Temps : Évitez les files d’attente et les délais administratifs. Obtenez vos documents rapidement.
+* ## Fiabilité : Notre système est approuvé par les institutions éducatives et les organismes gouvernementaux.
+* ## Accessibilité : Disponible 24h/24 et 7j/7, CertifExpress s’adapte à votre emploi du temps.
 
 # Optez pour CertifExpress et simplifiez vos démarches administratives dès aujourd’hui.
 
-# Planning
+![Image]()
+
+# Planning suivi pour la réalisation du projet 
 ## Phase de planification 
 ### Analyses des besoins et des exigences :
 * Rencontres avec les parties prenantes pour comprendre leurs besoins.
