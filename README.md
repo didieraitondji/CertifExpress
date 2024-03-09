@@ -81,5 +81,8 @@ CertifExpress est un système intelligent conçu pour accélérer et simplifier 
 * Planification des mises à jour régulières du système pour ajouter de nouvelles fonctionnalités ou améliorer les fonctionnalités existantes
 * Suivi tendances technologiques pour garantir que le système reste à jour et compétitif.
 
+![Image](/assets/images/travail.jpg)
+
+# Détails de chaque point :
 
 CertifExpress: La rapidité et l’efficacité dans la délivrance des certificats.
