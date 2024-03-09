@@ -87,40 +87,41 @@ CertifExpress est un système intelligent conçu pour accélérer et simplifier 
 
 ## Les points 1. & 2. se resument au détails suivant : 
 
-1. ### Scénario : Demande d’Attestation de Diplôme
+1. ## Scénario : Demande d’Attestation de Diplôme / Demande de Diplôme
 
-  * ### Étape 1 : Accès à CertifExpress
-    * #### Étudiant : Rendez-vous sur le site web de CertifExpress.
-    * #### Page d’Accueil : L’étudiant est accueilli par une interface conviviale avec les options suivantes :
-      * #### Demander une Attestation
-      * #### Suivre ma Demande
-      * #### Archiver mes Documents
+   * ### Étape 1 : Accès à CertifExpress
+     * #### Étudiant : Rendez-vous sur le site web de CertifExpress.
+     * #### Page d’Accueil : L’étudiant est accueilli par une interface conviviale avec les options suivantes :
+       * #### Demander une Attestation
+       * #### Suivre ma Demande
+       * #### Archiver mes Documents
+ 
+   * ### Étape 2 : Remplir le Formulaire de Demande
+     * #### Étudiant : Clique sur “Demander une Attestation”.
+     * #### Formulaire en Ligne : L’étudiant remplit les champs requis :
+       * #### Nom complet
+       * #### Numéro d’étudiant
+       * #### Type d’attestation (diplôme, relevé de notes, etc.)
+       * #### Motif de la demande (emploi, poursuite d’études, etc.)
+ 
+   * ### Étape 3 : Suivi de la Demande
+     * #### Étudiant : Après soumission, l’étudiant reçoit un numéro de suivi.
+     * #### Espace Personnel : L’étudiant peut se connecter à son espace personnel pour vérifier l’état de sa demande :
+       * #### En attente de validation
+       * #### En cours de traitement
+       * #### Prêt à être retiré
+ 
+   * #### Étape 4 : Validation et Délivrance
+     * #### Administrateur : Reçoit la demande et vérifie les informations.
+     * #### Génération Automatique : Le système génère l’attestation avec les détails corrects.
+     * #### Notification à l’Étudiant : L’étudiant reçoit une notification lorsque l’attestation est prête.
+     * #### Retrait de l’Attestation : L’étudiant peut retirer l’attestation au bureau administratif ou la recevoir par voie électronique.
+ 
+   * #### Avantages pour l’Étudiant :
+     * #### Gain de Temps : Plus besoin de faire la queue ou d’attendre des semaines.
+     * #### Transparence : L’étudiant sait où en est sa demande à tout moment.
+     * #### Sécurité : Les données sont protégées et les documents sont authentiques.
 
-  * ### Étape 2 : Remplir le Formulaire de Demande
-    * #### Étudiant : Clique sur “Demander une Attestation”.
-    * #### Formulaire en Ligne : L’étudiant remplit les champs requis :
-      * #### Nom complet
-      * #### Numéro d’étudiant
-      * #### Type d’attestation (diplôme, relevé de notes, etc.)
-      * #### Motif de la demande (emploi, poursuite d’études, etc.)
-
-  * ### Étape 3 : Suivi de la Demande
-    * #### Étudiant : Après soumission, l’étudiant reçoit un numéro de suivi.
-    * #### Espace Personnel : L’étudiant peut se connecter à son espace personnel pour vérifier l’état de sa demande :
-      * #### En attente de validation
-      * #### En cours de traitement
-      * #### Prêt à être retiré
-
-  * #### Étape 4 : Validation et Délivrance
-    * #### Administrateur : Reçoit la demande et vérifie les informations.
-    * #### Génération Automatique : Le système génère l’attestation avec les détails corrects.
-    * #### Notification à l’Étudiant : L’étudiant reçoit une notification lorsque l’attestation est prête.
-    * #### Retrait de l’Attestation : L’étudiant peut retirer l’attestation au bureau administratif ou la recevoir par voie électronique.
-
-  * #### Avantages pour l’Étudiant :
-    * #### Gain de Temps : Plus besoin de faire la queue ou d’attendre des semaines.
-    * #### Transparence : L’étudiant sait où en est sa demande à tout moment.
-    * #### Sécurité : Les données sont protégées et les documents sont authentiques.
-
+2. ## Scénario : Reception et traitement de la Demande d’Attestation / Diplôme
 
 CertifExpress: La rapidité et l’efficacité dans la délivrance des certificats.
