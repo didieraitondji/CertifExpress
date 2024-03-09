@@ -15,7 +15,7 @@ CertifExpress est un système intelligent conçu pour accélérer et simplifier 
 
 # Optez pour CertifExpress et simplifiez vos démarches administratives dès aujourd’hui.
 
-![Image]()
+![Image](/assets/images/travail.jpg)
 
 # Planning suivi pour la réalisation du projet 
 ## Phase de planification 
