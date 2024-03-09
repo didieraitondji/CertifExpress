@@ -90,19 +90,19 @@ CertifExpress est un système intelligent conçu pour accélérer et simplifier 
 1. ### Scénario : Demande d’Attestation de Diplôme
 
   * ### Étape 1 : Accès à CertifExpress
-   * #### Étudiant : Rendez-vous sur le site web de CertifExpress.
-   * #### Page d’Accueil : L’étudiant est accueilli par une interface conviviale avec les options suivantes :
-   * #### Demander une Attestation
-   * #### Suivre ma Demande
-   * #### Archiver mes Documents
+    * #### Étudiant : Rendez-vous sur le site web de CertifExpress.
+    * #### Page d’Accueil : L’étudiant est accueilli par une interface conviviale avec les options suivantes :
+    * #### Demander une Attestation
+    * #### Suivre ma Demande
+    * #### Archiver mes Documents
 
   * ### Étape 2 : Remplir le Formulaire de Demande
-   * #### Étudiant : Clique sur “Demander une Attestation”.
-   * #### Formulaire en Ligne : L’étudiant remplit les champs requis :
-     * Nom complet
-     * Numéro d’étudiant
-     * Type d’attestation (diplôme, relevé de notes, etc.)
-     * Motif de la demande (emploi, poursuite d’études, etc.)
+    * #### Étudiant : Clique sur “Demander une Attestation”.
+    * #### Formulaire en Ligne : L’étudiant remplit les champs requis :
+      * Nom complet
+      * Numéro d’étudiant
+      * Type d’attestation (diplôme, relevé de notes, etc.)
+      * Motif de la demande (emploi, poursuite d’études, etc.)
 
 Étape 3 : Suivi de la Demande
 Étudiant : Après soumission, l’étudiant reçoit un numéro de suivi.
