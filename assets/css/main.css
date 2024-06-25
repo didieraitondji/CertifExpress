@@ -1,0 +1,24 @@
+.contenu {
+    top: 73px;
+    height: calc(100vh - 73px);
+}
+
+.pub1{
+    border-left: 5px solid black;
+}
+
+header {
+    z-index: 1200;
+}
+
+@media screen and (max-width:767px) {
+    .image-3 {
+        margin-top: 0px;
+    }
+}
+
+@media screen and (min-width:767px) {
+    .image-3 {
+        margin-top: -500px;
+    }
+}
